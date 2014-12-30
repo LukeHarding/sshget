@@ -19,4 +19,4 @@ if portQ == "y" or portQ == "yes":
 else:
     os.system("scp " + scpTarget + ":" + fileNeeded + " "  + whereGo)
 
-print "I got it\nBye"
+print "I got it! \nBye"
