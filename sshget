@@ -1,0 +1,3 @@
+#/bin/bash
+#This is written for crunchbang
+python ~/bin/sshget.py
